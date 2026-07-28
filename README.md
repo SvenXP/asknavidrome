@@ -15,3 +15,10 @@ streaming services like Amazon Music or Spotify.  AskNavidrome allows you to:
 - Run the service on a PC directly or inside a Docker container.
 
 See the full documentation [here](https://rosskouk.github.io/asknavidrome)
+---
+
+Fork-spezifische Änderungen: siehe [FORK.md](FORK.md)
+
+---
+
+Fork-spezifische Änderungen: siehe [FORK.md](FORK.md)
